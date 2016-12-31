@@ -32,7 +32,7 @@
 	"extra": {
 		"contao": {
 			"sources": {
-				"assets/underscorejs": "assets/underscorejs"
+				"src/assets/underscorejs": "assets/underscorejs"
 			}
 		}
 	}
